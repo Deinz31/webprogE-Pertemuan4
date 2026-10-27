@@ -12,21 +12,21 @@ body{
 }
 
 .kartu-profile{
-        background-color: #2f9c38;
+        background-color: #01990e;
         padding: 30px;
         width: 300px;
         text-align: center;
-        border: 2px solid #5566c9;
+        border: 2px solid #ffffff;
         border-radius: 70px 0;
-        box-shadow:  6px 13px 6px -1px rgba(0, 0, 0.05);
+        box-shadow:  6px 13px 6px -1px rgb(73, 68, 68);
 
 }
 .kartu-profile h2{
-    color: #000000;
+    color: #ffffff;
 }
 .kartu-profile p{
     margin: 0;
-    color: #ffffff;
+    color: #000000;
     font-size: 20px;
 }
 
